@@ -1,0 +1,3 @@
+%% encoding: UTF-8
+{application,fancyapi_callback}.
+{modules,[fancyapi_app,fancyapi_callback,fancyapi_sup]}.
